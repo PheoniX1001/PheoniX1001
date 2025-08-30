@@ -38,6 +38,4 @@
 </p>
 ---
 
----
-
 > “The essence of mathematics is in its freedom.” – Georg Cantor
