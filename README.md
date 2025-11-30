@@ -36,6 +36,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PheoniX1001&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PheoniX1001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+Currently improving my skills on deep learning!
 ---
 
 > “The essence of mathematics is in its freedom.” – Georg Cantor
